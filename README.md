@@ -2,11 +2,9 @@ Projeto utilizando Spring Boot. Adicionará dependências no projeto, com o Jack
 
 ⚡ Technologies
 
-<div style="display: inline_block" align="center"><br>
- <img align="center" alt="Adriano-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Adriano-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Adriano-Github" height='30' width='40' src="https://devicon-website.vercel.app/api/github/original.svg"></img>
-  <img align="center" alt="Adriano-Git" height='30' width='40' src="https://devicon-website.vercel.app/api/git/original-wordmark.svg"></img>
- ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-  </div>
-</br>
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
